@@ -1,0 +1,18 @@
+fun main(){
+    var a1=readln()
+    var a2=readln()
+    var a3=readln()
+    var a4=readln()
+    var a5=readln()
+    var a6=readln()
+    var a7=readln()
+    var a8=readln()
+    println("Student Enrollment no:"+a1)
+    println("Student Name:"+a2)
+    println("Student Branch:"+a3)
+    println("Student Class:"+a4)
+    println("Student Batch:"+a5)
+    println("Student College Name:"+a6)
+    println("Student University Name:"+a7)
+    println("Age:"+a8)
+}
